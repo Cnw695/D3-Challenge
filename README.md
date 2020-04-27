@@ -9,6 +9,6 @@ Technologies: HTML, D3, JAVAScript, CSS, BootStrap
 *  Add in additional X and Y axis variables to make the chart more dynamic
 *  Use python -m http.server to run the visualization
 
-HTML-->>>D3-Challenge/index.html
-Java Script-->>>D3-Challenge/app.js 
-CSS-->>>>D3-Challenge/style.css
+* HTML-->>>D3-Challenge/index.html
+* Java Script-->>>D3-Challenge/app.js 
+* CSS-->>>>D3-Challenge/style.css
