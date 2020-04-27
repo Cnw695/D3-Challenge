@@ -10,3 +10,4 @@ Technologies: HTML, D3, JAVAScript, CSS, BootStrap
 *  Use python -m http.server to run the visualization
 
 HTML-->>>D3-Challenge/index.html
+Java Script-->>>D3-Challenge/app.js 
