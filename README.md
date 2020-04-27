@@ -11,3 +11,4 @@ Technologies: HTML, D3, JAVAScript, CSS, BootStrap
 
 HTML-->>>D3-Challenge/index.html
 Java Script-->>>D3-Challenge/app.js 
+CSS-->>>>D3-Challenge/style.css
